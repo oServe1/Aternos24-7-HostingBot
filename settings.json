@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "BotBotBotSahur",
+    "username": "AFKBot",
     "password": "",
     "type": "offline"
   },
@@ -13,9 +13,9 @@
   },
   "position": {
     "enabled": true,
-    "x": 0,
-    "y": 100,
-    "z": 0
+    "x": 50000,
+    "y": 78,
+    "z": 50000
   },
   "utils": {
     "auto-auth": {
