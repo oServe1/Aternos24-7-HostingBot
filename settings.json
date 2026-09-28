@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "SeagullsSMPS2.aternos.me",
+    "port": 47242,
     "version": "",
     "try-creative": false
   },
